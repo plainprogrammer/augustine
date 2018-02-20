@@ -1,4 +1,4 @@
-package application
+package augustine
 
 type Environment struct {
 	Status  int
