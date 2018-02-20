@@ -1,7 +1,7 @@
 package middlewares_test
 
 import (
-	. "github.com/plainprogrammer/augustine/augustine/middlewares"
+	. "github.com/plainprogrammer/augustine/middlewares"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"github.com/plainprogrammer/augustine/augustine"
